@@ -1,5 +1,7 @@
 # Detecting Multiregion Templates with Mondrian
-Code repository of the Mondrian project, developed at the Information Systems Group of the Hasso Plattner Institute.
+This repository is a fork of the code repository of the Mondrian project, developed at the Information Systems Group of the Hasso Plattner Institute.
+
+It contains a modified version of the basic.py script (basic_report.py). The report script detects regions in one CSV file and writes a JSON report containing the name of the file, the number of regions detected, and the top and bottom region coordinates. 
 
 ## Setup
 
